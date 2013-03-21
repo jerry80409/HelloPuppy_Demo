@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">KON Ni CHI WA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">KON Ni CHI WA</string>
+
+</resources>
